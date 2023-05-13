@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_trapdoor",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "transitional:alder_planks"
+    }
+  },
+  "result": {
+    "item": "transitional:alder_trapdoor",
+    "count": 2
+  }
+}

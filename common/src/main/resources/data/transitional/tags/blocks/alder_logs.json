@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "transitional:alder_log",
+    "transitional:alder_wood",
+    "transitional:stripped_alder_log",
+    "transitional:stripped_alder_wood"
+  ]
+}

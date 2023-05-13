@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "dev.ebo2022.transitional.core.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "client": [
+  ],
+  "mixins": [
+    "FlowerBlockMixin",
+    "TallFlowerBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

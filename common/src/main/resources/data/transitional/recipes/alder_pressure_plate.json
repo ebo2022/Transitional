@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_pressure_plate",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "transitional:windswept_planks"
+    }
+  },
+  "result": {
+    "item": "transitional:windswept_pressure_plate"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "transitional:alder_planks"
+    }
+  ],
+  "result": {
+    "item": "transitional:alder_button"
+  }
+}

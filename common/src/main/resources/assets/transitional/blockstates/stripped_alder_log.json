@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y":    { "model": "transitional:block/stripped_alder_log" },
+    "axis=z":     { "model": "transitional:block/stripped_alder_log", "x": 90 },
+    "axis=x":     { "model": "transitional:block/stripped_alder_log", "x": 90, "y": 90 }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "transitional:block/scarlet_weeds"
+  }
+}

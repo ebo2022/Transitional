@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "transiitonal:alder_logs"
+    }
+  ],
+  "result": {
+    "item": "transitional:alder_planks",
+    "count": 4
+  }
+}

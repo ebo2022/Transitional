@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "transitional:block/alder_slab" },
+    "type=top": { "model": "transitional:block/alder_slab_top" },
+    "type=double": { "model": "transitional:block/alder_planks" }
+  }
+}

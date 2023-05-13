@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "transitional:alder_planks"
+    }
+  },
+  "result": {
+    "item": "transitional:alder_slab",
+    "count": 6
+  }
+}

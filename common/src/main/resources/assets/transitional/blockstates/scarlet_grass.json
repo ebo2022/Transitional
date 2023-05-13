@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "snowy=false": [
+      {
+        "model": "transitional:block/scarlet_grass"
+      },
+      {
+        "model": "transitional:block/scarlet_grass",
+        "y": 90
+      },
+      {
+        "model": "transitional:block/scarlet_grass",
+        "y": 180
+      },
+      {
+        "model": "transitional:block/scarlet_grass",
+        "y": 270
+      }
+    ],
+    "snowy=true": {
+      "model": "minecraft:block/grass_block_snow"
+    }
+  }
+}
